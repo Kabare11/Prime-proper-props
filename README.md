@@ -3,6 +3,7 @@
 We're creating an application that allows party planners to plan prim and proper parties.
 
 ## Setup
+
 You'll need a `prim-proper-props` database. Follow the guidance in the `database.sql` file to create tables.
 
 ## Base Requirements
